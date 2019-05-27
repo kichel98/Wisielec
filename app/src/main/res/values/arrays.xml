@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/wisielec0</item>
+        <item>@drawable/wisielec1</item>
+        <item>@drawable/wisielec2</item>
+        <item>@drawable/wisielec3</item>
+        <item>@drawable/wisielec4</item>
+        <item>@drawable/wisielec5</item>
+        <item>@drawable/wisielec6</item>
+        <item>@drawable/wisielec7</item>
+        <item>@drawable/wisielec8</item>
+        <item>@drawable/wisielec9</item>
+        <item>@drawable/wisielec10</item>
+    </array>
+</resources>
